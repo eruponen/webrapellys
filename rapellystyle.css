@@ -1,0 +1,25 @@
+.GREY {
+	margin: 0px;
+	background-color: ghostwhite;
+	border-radius: 5px;
+	border: solid 2px;
+	height: 50%;
+}
+
+.BLACK {
+	margin: 0px;
+	background-color: lightcyan;
+	border-radius: 5px;
+	border: solid 2px;
+	height: 50%;
+
+}
+
+body {
+	background-image: url(http://wallpapergal.com/wp-content/uploads/2015/08/Awesome-Wallpapers-7AC.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+ html, body, .container, .row-fluid{
+ 	height: 100%;
+ }
